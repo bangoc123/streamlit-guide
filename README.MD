@@ -1,6 +1,8 @@
 ### Học Streamlit cho người mới
 Học streamlit nhanh chóng thông qua việc lập trình Chatbot
 
+![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/f381bb70-603a-11ef-b0a7-998b84b38d43-Screen_Shot_2024_08_22_at_10.59.35.png)
+
 ### Cài đặt
 
 Để bắt đầu với các hướng dẫn này, hãy làm theo các bước dưới đây:
